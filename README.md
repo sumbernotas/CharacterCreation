@@ -1,5 +1,7 @@
 # CharacterCreation
 
+CODE FILE IS FOUND IN CHARACTERCREATOR FOLDER, LAST FILE Source.cpp
+
 This is a side project that I have started to work on, it is currently incomplete. 
 The goal of the finished program is to allow a user to create and store fantasy RPG characters, giving them access to all character stats, weapons, demographics, abilities, etc.
   this input will be able to be edited and changed to the users preference. 
