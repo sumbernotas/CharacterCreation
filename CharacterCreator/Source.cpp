@@ -152,27 +152,12 @@ int main()
 		{
 			presetNameList[0] = nameList[0];
 			presetNameList[1] = nameList[1];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
 		}
 		else if (numberOfNames == 3)
 		{
 			presetNameList[0] = nameList[0];
 			presetNameList[1] = nameList[1];
 			presetNameList[2] = nameList[2];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
 		}
 		else if (numberOfNames == 4)
 		{
@@ -180,12 +165,6 @@ int main()
 			presetNameList[1] = nameList[1];
 			presetNameList[2] = nameList[2];
 			presetNameList[3] = nameList[3];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
 		}
 		else if (numberOfNames == 5)
 		{
@@ -194,11 +173,6 @@ int main()
 			presetNameList[2] = nameList[2];
 			presetNameList[3] = nameList[3];
 			presetNameList[4] = nameList[4];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
 		}
 		else if (numberOfNames == 6)
 		{
@@ -208,10 +182,6 @@ int main()
 			presetNameList[3] = nameList[3];
 			presetNameList[4] = nameList[4];
 			presetNameList[5] = nameList[5];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
 		}
 		else if (numberOfNames == 7)
 		{
@@ -222,9 +192,6 @@ int main()
 			presetNameList[4] = nameList[4];
 			presetNameList[5] = nameList[5];
 			presetNameList[6] = nameList[6];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
 		}
 		else if (numberOfNames == 8)
 		{
@@ -236,8 +203,6 @@ int main()
 			presetNameList[5] = nameList[5];
 			presetNameList[6] = nameList[6];
 			presetNameList[7] = nameList[7];
-			presetNameList[NULL] = nameList[NULL];
-			presetNameList[NULL] = nameList[NULL];
 		}
 		else if (numberOfNames == 9)
 		{
@@ -250,7 +215,6 @@ int main()
 			presetNameList[6] = nameList[6];
 			presetNameList[7] = nameList[7];
 			presetNameList[8] = nameList[8];
-			presetNameList[NULL] = nameList[NULL];
 		}
 		else if (numberOfNames == 10)
 		{
