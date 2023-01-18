@@ -144,9 +144,7 @@ int main()
 		}
 
 		/////////////////////////////////////////////////////////////////////////
-		///////// this was not exactly intentional,  I was getting a bug when it came to letting the player choose a name out of their list. After multiple
-		///////// different attempts to fix this i decided to create an array and redefine each value as the list was created. This probably isn't the best
-		///////// way to go about this.. but I got it to work. I tried to put this into a function to ease space, but that gave me difficulties as well.
+		///////// Unintentional. Error occuring with List, this is a test solution to check other parts of code. Will be changed !! 
 		/////////////////////////////////////////////////////////////////////////
 		if (numberOfNames == 2)
 		{
