@@ -1,10 +1,3 @@
 # CharacterCreation
 
-CODE FILE IS FOUND IN CHARACTERCREATOR FOLDER, LAST FILE Source.cpp
-
-This is a side project that I have started to work on, it is currently incomplete. 
-The goal of the finished program is to allow a user to create and store fantasy RPG characters, giving them access to all character stats, weapons, demographics, abilities, etc.
-  this input will be able to be edited and changed to the users preference. 
-So far, I have a base model program with no graphics that will allow the user to input character demographics and abilities. 
-The character options will be based around DND style character paths and will be fully customizable. 
-I still need to add many different options and settings. This program is far from complete and still in a base test mode for myself. 
+This was a small school project that was done for one of my college courses. Our task was to create a simple text-based program that allows a user to create and set specific values to a character's stats. The idea behind this was to make a program that kept track of Dungeons & Dragons characters. Specifically, this project was to showcase our knowledge of pointers & references in C++. The program is still at its base requirements for what was needed in the class, so it is quite small and simple. I do plan in the future to expand this program into a full functional web app that keeps tracks of all aspects of DnD characters
